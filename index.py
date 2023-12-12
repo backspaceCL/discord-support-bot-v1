@@ -1,5 +1,5 @@
 import discord #모듈 불러오기
-token = "MTEzOTU0MjkwMzQ1OTQxNDE1Ng.GNC_W_.0VPt6uhEaHjazj_DCvCGlRH-_bhHiwjR-Pk-TA" #봇 토큰 설정하기
+token = "token" #봇 토큰 설정하기
 client = discord.Client = discord.Client(intents=discord.Intents.all())
 
 @client.event
